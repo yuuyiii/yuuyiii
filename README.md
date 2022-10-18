@@ -1,16 +1,17 @@
-### Hi there 👋
+姓名
+----
+李祐誼
 
-<!--
-**yuuyiii/yuuyiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+日期
+----
+yyyy/mm/dd
 
-Here are some ideas to get you started:
+2022/10/18
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Github Username
+---------------
+yuuyiii
+
+我最喜歡的三件事
+---------------
+睡覺 滑手機 吃東西
